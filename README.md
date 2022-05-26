@@ -28,3 +28,4 @@ Hi, I'm a data analyst, interested in technical development, especially artifici
 [![](https://visitcount.itsvg.in/api?id=athari22&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## :dart: Currently learning
+ :small_blue_diamond: Data science
