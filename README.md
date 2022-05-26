@@ -10,4 +10,4 @@ Hi, I'm a data analyst, interested in technical development, especially artifici
 # Languages and Tools
 
 -->
-!\[status up\](https://napkin-examples.npkn.net/site-status-badge/)
+![status up\](https://napkin-examples.npkn.net/site-status-badge/)
