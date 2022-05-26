@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Athari Al-Mutairi
+## Hi there 👋 I'm Athari Al-Mutairi
 
 <!--
 **Athari22/Athari22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Hi, I'm a data analyst, interested in technical development, especially artifici
 # 💫About Me :
 Hi, I'm a data analyst, interested in technical development, especially artificial intelligence. I believe that artificial intelligence techniques can change the future. My passion for the future is to become a data scientist, combining data analysis and forecasting using machine learning algorithms.
 
-## 🌐Socials
+# 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athari-almutairi-5a677122b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Atharik88) 
 
 # 💻Tech Stack
