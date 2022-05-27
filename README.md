@@ -17,7 +17,7 @@ Hi, I'm a data analyst, interested in technical development, especially artifici
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athari-almutairi-5a677122b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Atharik88) 
 
-# 🏆GitHub Trophies
+## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=athari22&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💻Tech Stack
