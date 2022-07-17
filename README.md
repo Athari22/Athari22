@@ -15,7 +15,7 @@ Hi, I'm a data analyst, interested in technical development, especially artifici
 Hi, I'm a data analyst, interested in technical development, especially artificial intelligence. I believe that artificial intelligence techniques can change the future. My passion for the future is to become a data scientist, combining data analysis and forecasting using machine learning algorithms.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/athari-almutairi-5a677122b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atharik88?s=21&t=q3fSrL67w5uEp9U3YR6Ehw) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/athari-almutairi-5a677122b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atharik88?s=21&t=q3fSrL67w5uEp9U3YR6Ehw) 
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=athari22&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
