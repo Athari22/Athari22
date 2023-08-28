@@ -28,8 +28,7 @@ Hi, I'm a data analyst, interested in technical development, especially artifici
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=athari22&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-[![ ](https://visitcount.itsvg.in/api?id=athari33&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## :dart: Currently learning
  :small_blue_diamond: Data science
  
