@@ -12,7 +12,7 @@ Hello, I am a data analyst with a keen interest in technical advancements, parti
 -->
 
 ## 💫About Me :
-Hello, I am a data analyst with a keen interest in technical advancements, particularly in the field of artificial intelligence. I strongly believe that the utilization of artificial intelligence techniques has the potential to revolutionize the future. My ultimate goal is to become a data scientist, where I can combine my skills in data analysis and utilize machine learning algorithms for accurate predictions and forecasting.
+Hello, I am a data analyst with a strong passion for technological advancements, particularly in the field of artificial intelligence. I firmly believe that AI has the power to transform industries and shape the future. My ultimate career goal is to become a data scientist, where I can leverage my expertise in data analysis and apply machine learning algorithms to drive accurate predictions and informed forecasting.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athari-almutairi-5a677122b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atharik88?s=21&t=q3fSrL67w5uEp9U3YR6Ehw) 
@@ -30,9 +30,7 @@ Hello, I am a data analyst with a keen interest in technical advancements, parti
 
 
 ## :dart: Currently learning
- :small_blue_diamond: Data science
- :small_blue_diamond: Full stack web developer
- 
+ :small_blue_diamond: Data science 
  
  
 <!--  [![](https://visitcount.itsvg.in/api?id=athari22&icon=0&color=6)](https://visitcount.itsvg.in)
